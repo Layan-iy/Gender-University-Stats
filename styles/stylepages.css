@@ -1,0 +1,43 @@
+.p1 {
+    width: 1000px;    
+}
+
+h1 {
+    font-size: 1.5em;
+    font-family: arial, sans-serif;
+    text-align: center;
+    color: #ffffff;
+    background-color: rgb(144, 172, 189);
+
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    padding: 30px;
+    box-shadow: 6px 6px 6px rgb(190, 187, 187);
+}
+
+h1:hover{
+    color: #000000;
+    opacity: 0.9;
+}
+
+p{
+    font-size: 1em;
+    font-family: arial, sans-serif;
+    text-align: justify;
+    
+    background: linear-gradient(90deg, #d182b9, #58bcd2);
+    
+
+    opacity: calc(80%);
+
+    border-radius: 10px 30px 0px 90px;
+    padding: 30px;
+    padding-right: 10%;
+    padding-left: 10%;
+    
+    box-shadow: 6px 6px 4px rgb(190, 187, 187);
+ }
+
+P:hover{
+    color: #ffffff;
+    opacity: 0.9;
+}
